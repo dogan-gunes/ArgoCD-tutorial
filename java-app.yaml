@@ -15,5 +15,5 @@ spec:
         app: java-app
     spec:
       containers:
-      - image: dgngns/argo:0.1.0
+      - image: dgngns/argocd:0.1.0
         name: java-app
